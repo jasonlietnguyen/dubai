@@ -2,6 +2,9 @@ body{
      font-family: 'Roboto', sans-serif;
      font-weight: 200;
      overflow-x: hidden;
+	 /*background-image: url(http://wall--art.com/wp-content/uploads/2014/04/Night-Dubai-Burj-Khalifa.jpg);
+	 background-size: cover;
+	 background-attachment: fixed;*/
 }
 h1, h2, h3, h4, h5, h6{
     font-family: 'Roboto', sans-serif;
