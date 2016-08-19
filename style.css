@@ -57,7 +57,7 @@ a:hover {
 	border-top: 700px solid rgba(0, 188, 212, .4);
 	border-right: 1300px solid transparent;
 	position: absolute;
-	z-index: -1;
+	z-index: -5;
 }
 .space{
 	padding: 0 50px;
