@@ -54,7 +54,7 @@ a:hover {
 .tri-small{
 	width: 0;
 	height: 0;
-	border-top: 400px solid rgba(0, 188, 212, .4);
+	border-top: 600px solid rgba(0, 188, 212, .4);
 	border-right: 400px solid transparent;
 	position: absolute;
 	z-index: -5;
