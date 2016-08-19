@@ -22,7 +22,7 @@ a:hover {
 	opacity: .9;
 	padding: 10px;
 	font-size: 300;
-	transition: 0.5s ease;
+	transition: 0.3s ease;
 	margin: 0 15px;
 }
 #explore:hover{
@@ -33,7 +33,7 @@ a:hover {
 	color: #00BCD4;
 	padding: 10px;
 	font-size: 300;
-	transition: 0.5s ease;
+	transition: 0.3s ease;
 	margin: 0 15px;
 }
 #discover:hover{
@@ -114,7 +114,7 @@ video{
 	left: 0;
 }
 .fa{
-	transition: 0.5s ease;
+	transition: 0.3s ease;
 }
 .fa:hover {
 	font-size: 5em;
